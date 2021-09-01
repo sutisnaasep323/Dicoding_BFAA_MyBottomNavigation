@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Study Android/Dicoding_BFAA_MyBottomNavigation/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.22552083333333334" />
         <entry key="..\:/Study Android/Dicoding_BFAA_MyBottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Study Android/Dicoding_BFAA_MyBottomNavigation/app/src/main/res/layout/fragment_notifications.xml" value="0.209375" />
+        <entry key="..\:/Study Android/Dicoding_BFAA_MyBottomNavigation/app/src/main/res/layout/fragment_profile.xml" value="0.209375" />
         <entry key="..\:/Study Android/Dicoding_BFAA_MyBottomNavigation/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
       </map>
     </option>
